@@ -1,7 +1,7 @@
 # CyberDesk — Terminal Cyber-Desk (TUI)
 
 <!-- Screenshot: relative path to workspace root image 'foto.png' -->
-![CyberDesk TUI screenshot](../photo.png)
+![CyberDesk TUI screenshot](/photo.png)
 
 A cyberdeck-style TUI desktop for Linux, displaying application icons in an interactive grid. Click to launch apps, navigate with keyboard, and enjoy a retro-futuristic terminal experience.
 
@@ -167,4 +167,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
