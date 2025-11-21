@@ -1,0 +1,3 @@
+textual
+textual-image
+python-xlib ; platform_system == 'Linux'  # optional for mouse extensions
